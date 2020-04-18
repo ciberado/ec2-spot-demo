@@ -28,7 +28,6 @@ EOF
 ## Launch your instances
 
 ```bash
-```
 aws ec2 run-instances \
   --image-id ami-00890f614e48ce866 \
   --count 3 \
